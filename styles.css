@@ -6,6 +6,32 @@
     font-family: Arial, sans-serif;
 }
 
+.estilo{
+
+  text-align: justify; /* Justifica o texto */
+  line-height: 1.6; /* Espaçamento entre linhas (ajuste conforme necessário) */
+  word-spacing: 0.1em; /* Espaçamento entre palavras (ajuste conforme necessário) */
+  letter-spacing: 0.02em; /* Espaçamento entre letras (ajuste conforme necessário) */
+  padding: 15px; /* Adiciona um preenchimento interno para melhor visualização (ajuste conforme necessário) */
+  border: 1px solid #ccc; /* Adiciona uma borda sutil (opcional) */
+  border-radius: 5px; /* Arredonda as bordas (opcional) */
+  margin-bottom: 20px; /* Adiciona margem inferior para separar de outros elementos (ajuste conforme necessário) */
+  font-family: 'Arial', sans-serif; /* Escolha uma fonte adequada (ajuste conforme necessário) */
+  font-size: 16px; /* Define o tamanho da fonte (ajuste conforme necessário) */
+  color: #333; /* Define a cor do texto (ajuste conforme necessário) */
+
+  text-indent: 1em; /* Adiciona uma indentação na primeira linha de cada parágrafo (opcional) */
+  margin-bottom: 1em;
+  padding: 50px;
+
+}
+
+.estiloimg{
+
+    width: 300px;
+    height: 200px;
+}
+
 body {
     background-color: #f8f9fa;
 }
